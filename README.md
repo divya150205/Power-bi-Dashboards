@@ -2,6 +2,8 @@
 
 This dashboard is created using data from the **Survey_Data** file, which contains responses from professionals in the data field. Below is a detailed description of the key components:
 
+![Power BI Dashboard Screenshot](attachment:image.png)
+
 ## Dashboard Components
 
 ### 1. Survey Taker's Average Age
