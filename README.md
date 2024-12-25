@@ -2,7 +2,10 @@
 
 This dashboard is created using data from the **Survey_Data** file, which contains responses from professionals in the data field. Below is a detailed description of the key components:
 
-![Power BI Dashboard Screenshot](https://drive.google.com/file/d/1vt-agQuCQyPPxPxnyMxSBxgLgWd7hWKd/view?usp=sharing)
+<p align="center">
+  <img src="media/demo.gif" alt="Demo GIF">
+  <img src="image.png" alt="Performance Demo GIF">
+</p>
 
 ## Dashboard Components
 
